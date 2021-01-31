@@ -11,9 +11,9 @@
 ### [anti-rona-lock-system](https://github.com/dxaviud/anti-rona-lock-system) 
 - This is a project I created with 4 four other students from my cohort. There is a hardware component to it which is in the possession of one of my teammates. It uses TensorFlow and OpenCV to analyze an image, detecting people's faces and whether they are wearing masks or not.
 ### [chess](https://github.com/dxaviud/chess)
-- I created this while in high school. I have a few video demos of it on my website. The code is original (that's probably why it's not bug-free). It's also not organized (everything is in the src folder >_<), but I do plan on organizing it in the near future.
+- I created this while in high school. I have a few video demos of it on my website. The code is original (that's probably why it's not bug-free). It's also not organized (everything is in the src folder >_<), but I do plan on refactoring much of it in the near future.
 ### [ultimate-tictactoe](https://github.com/dxaviud/ultimate-tictactoe)
-- This is somewhat similar to my chess repository. I made it more recently and it's more organized. Like my chess project, this one has a GUI.
+- This is somewhat similar to my chess repository. I made it more recently (during the summer of 2020). Like my chess project, this one has a GUI.
 <!--
 - ⚡ Fun fact: ...
 - 👯 I’m looking to collaborate on ...
