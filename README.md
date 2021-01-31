@@ -3,7 +3,7 @@
 ## About me
 - 🏫 I am studying Software Engineering at the University of Waterloo.
 - 🔭 I’m currently working on my [website](https://dxaviud.github.io/). 
-- 🌱 I’m currently learning Java (the second time) using the [official Java tutorial](https://docs.oracle.com/javase/tutorial/index.html).
+- 🌱 I’m currently learning Java (the second time) using the [official Java tutorial](https://docs.oracle.com/javase/tutorial/index.html) to fill in knowledge gaps and heighten my skills.
 - 📫 How to reach me: Send me an [email](mailto:dxaviud@uwaterloo.ca) (you can also use [this one](mailto:d83xu@uwaterloo))
 
 ## Some of my bigger repositories
