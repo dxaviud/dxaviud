@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my [website](https://dxaviud.github.io/). 
 - 🌱 I’m currently learning Java (the second time) using the [official Java tutorial](https://docs.oracle.com/javase/tutorial/index.html) to fill in knowledge gaps and heighten my skills.
 - 📫 How to reach me: Send me an [email](mailto:dxaviud@uwaterloo.ca) (you can also use [this one](mailto:d83xu@uwaterloo)).
-- ⚡ Fun fact: GitHub's dark mode looks great!
+- ⚡ Fun fact: GitHub's dark theme looks great!
 
 ## Some of my bigger repositories
 
