@@ -9,7 +9,7 @@
 ## Some of my bigger repositories
 
 ### [anti-rona-lock-system](https://github.com/dxaviud/anti-rona-lock-system) 
-This is a project I created with 4 four other students from my cohort. There is a hardware component to it which is in the possession of one of my teammates. It uses TensorFlow and OpenCV to analyze an image, detecting people's faces and whether they are wearing masks or not.
+This is a project I created with 4 four other students from my cohort. There is a hardware component to it which is in the possession of one of my teammates. It uses TensorFlow and OpenCV to analyze an image, detecting distances between people and whether they are wearing masks or not.
 
 ### [chess](https://github.com/dxaviud/chess)
 I created this while in high school. I have a few video demos of it on my website. The code is original (that's probably why it's not bug-free). It's also not organized (everything is in the src folder >_<), but I do plan on refactoring much of it in the near future.
