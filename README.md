@@ -12,7 +12,7 @@
 This is a project I created with 4 four other students from my cohort. There is a hardware component to it which is in the possession of one of my teammates. It uses TensorFlow and OpenCV to analyze an image, detecting distances between people and whether they are wearing masks or not.
 
 ### [chess](https://github.com/dxaviud/chess)
-I created this while in high school. I have a few video demos of it on my website. The code is completely original (and also buggy, but it works well for the most part). I plan on redoing the saving feature in the future, which currently just writes/reads to/from a text file.
+I created this while in high school. I have a few video demos of it on my website. The code is completely original (and also buggy, but it works well for the most part). I might redo the saving feature in the future to use object streams (it currently just writes/reads to/from a text file, I didn't know about object streams at the time).
 
 ### [ultimate-tictactoe](https://github.com/dxaviud/ultimate-tictactoe)
 This is somewhat similar to my chess repository. I made it more recently (during the summer of 2020). Like my chess project, this one has a GUI.
