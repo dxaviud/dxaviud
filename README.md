@@ -3,7 +3,7 @@
 ## About me
 - 🏫 I’m in my 1B term for Software Engineering and actively looking for a 4 month co-op job for the summer.
 - 🔭 I’m currently working on my [website](https://dxaviud.github.io/). 
-- 🌱 I’m currently learning Java (the second time to fill in gaps) using the [official Java tutorial](https://docs.oracle.com/javase/tutorial/index.html), C++ in one of my courses ([CS138](https://ucalendar.uwaterloo.ca/2122/COURSE/course-CS.html#CS138)), and various other languages in bits and pieces.
+- 🌱 I’m currently learning CSS, Flask and SQL independently, C++ in one of my courses ([CS138](https://ucalendar.uwaterloo.ca/2122/COURSE/course-CS.html#CS138)), and other languages in bits and pieces.
 - 📫 How to reach me: Send me an [email](mailto:dxaviud@uwaterloo.ca) (you can also use [this one](mailto:d83xu@uwaterloo)).
 
 ## Some of my bigger repositories
