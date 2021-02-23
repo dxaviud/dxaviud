@@ -9,13 +9,13 @@
 ## Some of my bigger repositories
 
 ### [anti-rona-lock-system](https://github.com/dxaviud/anti-rona-lock-system) 
-This is a project I created with 4 four other students from my cohort. There is a hardware component to it which is in the possession of one of my teammates. It uses TensorFlow and OpenCV to analyze an image, detecting distances between people and whether they are wearing masks or not.
+This is a project I created with 4 four other students from my cohort. There is a hardware component to it which is in the possession of one of my teammates. It uses TensorFlow and OpenCV to analyze an image, detecting distances between people and determining mask usage.
 
 ### [chess](https://github.com/dxaviud/chess)
-I created this while in high school. I have a few video demos of it on my website. The code is completely original (and also buggy, but it works well for the most part). I might redo the saving feature in the future to use object streams (it currently just writes/reads to/from a text file, I didn't know about object streams at the time).
+I created this from scratch a while back. I have video demos of its main features on my website. All of it is completely original (except some image assets which I've borrowed and modified). I might redo the saving feature to use object streams (it currently just writes/reads to/from a text file).
 
 ### [ultimate-tictactoe](https://github.com/dxaviud/ultimate-tictactoe)
-This is somewhat similar to my chess repository. I made it more recently (during the summer of 2020). Like my chess project, this one has a GUI.
+This is somewhat similar to my chess repository, but I made it more recently. Like my chess project, this one has a GUI.
 
 <!--
 - ⚡ Fun fact: ...
