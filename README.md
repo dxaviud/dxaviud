@@ -9,7 +9,7 @@
 ## Some of my bigger repositories
 
 ### [anti-rona-lock-system](https://github.com/dxaviud/anti-rona-lock-system) 
-This is a project I created with 4 four other students from my cohort. There is a hardware component to it which is in the possession of one of my teammates. It uses TensorFlow and OpenCV to analyze an image, detecting distances between people and determining mask usage.
+A lock-camera system that uses machine learning and computer vision to detect masks and calculate person-to-person distances. If safety conditions are met, the lock is unlocked automatically. This is a project I created with 4 four other students from my cohort. It uses TensorFlow and OpenCV to analyze images.
 
 ### [chess](https://github.com/dxaviud/chess)
 I created this from scratch a while back. I have video demos of its main features on my website. All of it is completely original (except some image assets which I've borrowed and modified). I might redo the saving feature to use object streams (it currently just writes/reads to/from a text file).
