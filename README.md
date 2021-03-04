@@ -12,7 +12,7 @@
 A lock-camera system that uses machine learning and computer vision to detect masks and calculate person-to-person distances. If safety conditions are met, the lock is unlocked automatically. This is a project I created with 4 four other students from my cohort. It uses TensorFlow and OpenCV to analyze images.
 
 ### [chess](https://github.com/dxaviud/chess)
-I created this from scratch a while back. I have video demos of its main features on my website. All of it is completely original (except some image assets which I've borrowed and modified). I might redo the saving feature to use object streams (it currently just writes/reads to/from a text file).
+I created this from scratch a while back. I have video demos of its main features on my [porfolio website](https://dxaviud.github.io). All of it is completely original (except some image assets which I've borrowed and modified). I might redo the saving feature to use object streams (it currently just writes/reads to/from a text file).
 
 ### [ultimate-tictactoe](https://github.com/dxaviud/ultimate-tictactoe)
 This is somewhat similar to my chess repository, but I made it more recently. Like my chess project, this one has a GUI.
