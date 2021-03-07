@@ -6,6 +6,11 @@
 - 🌱 Learning [Flask](https://flask.palletsprojects.com/en/1.1.x/), [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript), [React](https://reactjs.org/), and C++ (in my [CS138](https://ucalendar.uwaterloo.ca/2122/COURSE/course-CS.html#CS138) course).
 - 📫 Reach me: Send me an [email](mailto:d83xu@uwaterloo.ca) (you can also use [this one](mailto:dxaviud@uwaterloo.ca)).
 
+## Current project(s)
+
+### [bug-tracker](https://github.com/dxaviud/bug-tracker)
+Uses the Flask framework for python w/ PostgreSQL databse. Deployed to Heroku.
+
 ## Some of my bigger repositories
 
 ### [anti-rona-lock-system](https://github.com/dxaviud/anti-rona-lock-system) 
