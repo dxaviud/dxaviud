@@ -9,7 +9,7 @@
 ## Current project(s)
 
 ### [bug-tracker](https://github.com/dxaviud/bug-tracker)
-Uses the Flask framework for python w/ PostgreSQL databse. Deployed to Heroku.
+I used the Flask framework w/ a PostgreSQL databse. Deployed it to Heroku.
 
 ## Some of my bigger repositories
 
