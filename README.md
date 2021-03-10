@@ -11,6 +11,9 @@
 ### [bug-tracker](https://github.com/dxaviud/bug-tracker)
 I used the Flask framework w/ a PostgreSQL databse. Deployed it to Heroku.
 
+### [dxaviud.github.io](https://github.com/dxaviud/dxaviud.github.io)
+My portfolio website.
+
 ## Some of my bigger repositories
 
 ### [anti-rona-lock-system](https://github.com/dxaviud/anti-rona-lock-system) 
