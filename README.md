@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About me
-- 🏫 I’m in my 1B term for Software Engineering and seeking a 4 month co-op job for the summer.
+- 🏫 I’m in my 1B term for Software Engineering<!-- and seeking a 4 month co-op job for the summer-->.
 - 🌱 Learning [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) in my spare time and C++ in my [CS138](https://ucalendar.uwaterloo.ca/2122/COURSE/course-CS.html#CS138) course.
 - 📫 Reach me: Send me an [email](mailto:d83xu@uwaterloo.ca) (you can also use [this one](mailto:dxaviud@uwaterloo.ca)).
 <!--, [React](https://reactjs.org/), and [Flask](https://flask.palletsprojects.com/en/1.1.x/)-->
