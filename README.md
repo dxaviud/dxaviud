@@ -9,13 +9,13 @@
 ## Current project(s)
 
 ### [bug-tracker](https://github.com/dxaviud/bug-tracker)
-I used the Flask framework w/ PostgreSQL to manage the databse. Deployed to Heroku.
+I made it using the Flask framework w/ PostgreSQL and deployed to Heroku. It's not close to being finished.
 
 ### [dxaviud.github.io](https://github.com/dxaviud/dxaviud.github.io)
 My portfolio website.
 
 ### [create-react-app](https://github.com/dxaviud/create-react-app-example)
-A react app deployed to Netlify.
+A react app deployed to Netlify. Still deciding what to build, hence the name.
 
 ## Some of my bigger repositories
 
