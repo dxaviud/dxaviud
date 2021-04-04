@@ -14,7 +14,7 @@ I used the Flask framework w/ PostgreSQL to manage the databse. Deployed to Hero
 ### [dxaviud.github.io](https://github.com/dxaviud/dxaviud.github.io)
 My portfolio website.
 
-### [create-react-app](https://github.com/dxaviud/create-react-app)
+### [create-react-app](https://github.com/dxaviud/create-react-app-example)
 A react app deployed to Netlify.
 
 ## Some of my bigger repositories
