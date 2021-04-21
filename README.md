@@ -2,7 +2,7 @@
 
 ## About me
 - 🏫 I’m in my 1B term for Software Engineering<!-- and seeking a 4 month co-op job for the summer-->.
-- 🌱 Learning Vim and C#
+- 🌱 Learning C#
 - 📫 Reach me: Send me an [email](mailto:d83xu@uwaterloo.ca) (you can also use [this one](mailto:dxaviud@uwaterloo.ca)).
 <!--, [React](https://reactjs.org/), and [Flask](https://flask.palletsprojects.com/en/1.1.x/)-->
 
