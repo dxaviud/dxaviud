@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- I learned about C#'s LINQ (Language Integrated Query) for the first time
+- I learned about a variety of topics regarding C#
