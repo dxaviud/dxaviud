@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- I learned about a variety of topics regarding C#
+- I learned that there is a lot to learn
