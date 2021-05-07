@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- I learned that there is a lot to learn, once again
+- I learned a bit about using PostgreSQL
