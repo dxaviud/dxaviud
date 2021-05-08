@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- I learned a bit about using PostgreSQL
+- I learned about continous integration and continuous deployment and docker
