@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- I learned about continous integration and continuous deployment and docker
+- Real work is more complicated than I expected
