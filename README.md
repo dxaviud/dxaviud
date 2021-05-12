@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- Real work takes quite a lot of time to get a little bit done (at the beginning at least) and Unit Testing
+- git submodules can be updated with "git submodule update --recursive"
