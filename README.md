@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- Real work is more complicated than I expected
+- Real work takes quite a lot of time to get a little bit done (at the beginning at least) and Unit Testing
