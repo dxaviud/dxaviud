@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- git submodules can be updated with "git submodule update --recursive"
+- git submodules can be pushed too with "git push --recurse-submodules=on-demand"
