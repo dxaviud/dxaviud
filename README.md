@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- when in doubt, leave it out
+- YouTube is addictive... but at least Jordan Peterson is cool
