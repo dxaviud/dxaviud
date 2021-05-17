@@ -1,4 +1,4 @@
-# Hi there 👋
+# 👋
 
 ## About me
 - 🏫 In 1B work term for Software Engineering<!-- and seeking a 4 month co-op job for the summer-->
@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- PD19 is fairly useless and mostly a waste of time
+- git submodules can get very hairy (I probably don't understand them well enough)
