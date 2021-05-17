@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- YouTube is addictive... but at least Jordan Peterson is cool
+- PD19 is fairly useless and mostly a waste of time
