@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- git submodules can get very hairy (I probably don't understand them well enough)
+- git submodules are actually not that bad... they are just git directories within git directories, but they are treated as just another directory by the parent
