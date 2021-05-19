@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- git submodules are actually not that bad... they are just git directories within git directories, but they are treated as just another directory by the parent
+- try to not work on parallel branches, the merging becomes messy (use just one branch when possible)
