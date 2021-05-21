@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- try to not work on parallel branches, the merging becomes messy (use just one branch when possible)
+- C# SemaphoreSlim and CancellationToken
