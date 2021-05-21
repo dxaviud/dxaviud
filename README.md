@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- C# SemaphoreSlim and CancellationToken
+- C# async and await makes much more sense now
