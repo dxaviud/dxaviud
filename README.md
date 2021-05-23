@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- C# async and await makes much more sense now
+- React is pretty cool
