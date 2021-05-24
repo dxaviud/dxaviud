@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- React is pretty cool
+- React class based components
