@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- A bit about database connectors / database adapters (node-postgres, psycopg2, etc.)
+- Bash commands and deploying a project to a remote server automatically using gitlab ci/cd
