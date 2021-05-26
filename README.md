@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- React class based components
+- A bit about database connectors / database adapters (node-postgres, psycopg2, etc.)
