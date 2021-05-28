@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- Bash scripting and what payload means
+- REST is just a set of constraints for how to use HTTP
