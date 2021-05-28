@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- Bash commands and deploying a project to a remote server automatically using gitlab ci/cd
+- Bash scripting and what payload means
