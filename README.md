@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- REST is just a set of constraints for how to use HTTP
+- A high level overview of WebSockets
