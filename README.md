@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- PostgreSQL ORDER BY clause
+- Don't add features to the code that will increase complexity unless there is a very good reason to
