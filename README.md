@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- Don't add features to the code that will increase complexity unless there is a very good reason to
+- Don't add features to the code that will increase complexity unless there is a very good reason to, React fragments
