@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- A high level overview of WebSockets
+- PostgreSQL ORDER BY clause
