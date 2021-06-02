@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- Updating instance variables in react will not cause the component to rerender, but updating this.state will.
+- Updating instance variables in react will not cause the component to rerender, but updating this.state will. Also learned about git rebase
