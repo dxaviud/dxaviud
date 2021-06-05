@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- Look big act small
+- JavaScript is a pain to debug
