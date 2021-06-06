@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- JavaScript is a pain to debug
+- Bootstrap, Font Awesome, jQuery
