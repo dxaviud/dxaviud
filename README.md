@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- Bootstrap, Font Awesome, jQuery
+- Review on react
