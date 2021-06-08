@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- Review on react
+- Redux
