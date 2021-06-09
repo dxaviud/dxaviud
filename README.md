@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- More Redux
+- Codepen
