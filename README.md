@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- Codepen & MessagePack for C#
+- More MessagePack for C#
