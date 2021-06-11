@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- More MessagePack for C#
+- Bit manip and packing data into byte arrays
