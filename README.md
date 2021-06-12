@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- Bit manip and packing data into byte arrays
+- Docker
