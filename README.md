@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- Docker
+- Making a timer w/ JavaScript
