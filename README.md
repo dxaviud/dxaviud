@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- Making a timer w/ JavaScript
+- A buffer is a kind of temporary storage between two locations where something is being transferred from one location to the other
