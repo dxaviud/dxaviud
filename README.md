@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- D3.js, SVGs
+- D3.js, SVGs, bit manip
