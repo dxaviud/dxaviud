@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- D3.js, SVGs, bit manip
+- Unicode, UTF-32, UTF-16, UTF-8, C#, Windows... it's annoying.
