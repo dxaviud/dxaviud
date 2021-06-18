@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- A proxy is an intermediary between client and server which can be used for load balancing, for example.
+- It's generally a bad idea to change old code without understanding it, even if it looks like it's causing problems.
