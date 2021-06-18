@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- Unicode, UTF-32, UTF-16, UTF-8, C#, Windows... it's annoying.
+- A proxy is an intermediary between client and server which can be used for load balancing, for example.
