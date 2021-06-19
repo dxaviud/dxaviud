@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- It's generally a bad idea to change old code without understanding it, even if it looks like it's causing problems.
+- D3.js is unintuitive for me
