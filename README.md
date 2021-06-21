@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- D3.js is unintuitive for me
+- npm package.json
