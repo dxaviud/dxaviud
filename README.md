@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- npm package.json
+- npm packackge.json dependencies and semantic versioning
