@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- npm packackge.json dependencies and semantic versioning
+- What RPC is, ASP.NET Core Wep Api, express stuff
