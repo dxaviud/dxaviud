@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- What RPC is, ASP.NET Core Wep Api, express stuff
+- Bit of MongoDB and Mongoose
