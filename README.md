@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- Bit of MongoDB and Mongoose
+- UTF-8, UTF-16, UTF-32, C# Tuples, git clean -fd
