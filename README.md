@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- Less code unless necessary
+- Mongoose stuff
