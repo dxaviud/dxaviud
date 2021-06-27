@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- Interface first
+- Less code unless necessary
