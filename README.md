@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- Mongoose stuff
+- A bit of typescript, graphql, yarn, apollo
