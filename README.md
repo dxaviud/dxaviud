@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- A bit of typescript, graphql, yarn, apollo
+- bpmn
