@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- What it's like to interview a candidate
+- A bit of typescript, typeorm, graphql, apollo
