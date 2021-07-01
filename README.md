@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- bpmn
+- What it's like to interview a candidate
