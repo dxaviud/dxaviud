@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- GraphQL, REST constraints
+- GraphQL, TypeGraphQL, REST constraints
