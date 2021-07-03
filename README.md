@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- A bit of typescript, typeorm, graphql, apollo
+- A bit of C# generics and type constraints and GraphQL
