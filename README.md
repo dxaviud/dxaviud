@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- GraphQL, TypeGraphQL, REST constraints
+- More GraphQL and TypeGraphQL, Active record pattern, some TypeORM
