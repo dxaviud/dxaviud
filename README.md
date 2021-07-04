@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- More GraphQL and TypeGraphQL, Active record pattern and Data mapper pattern, some TypeORM, cookies, JSON Web Tokens
+- More GraphQL and TypeGraphQL, Active record pattern and Data mapper pattern, some TypeORM, cookies, JSON Web Tokens, JavaScript promises and async/await
