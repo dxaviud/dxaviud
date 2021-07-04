@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- More GraphQL and TypeGraphQL, Active record pattern and Data mapper pattern, some TypeORM
+- More GraphQL and TypeGraphQL, Active record pattern and Data mapper pattern, some TypeORM, cookies, JSON Web Tokens
