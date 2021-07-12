@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- Some GraphQL, TypeGraphQL, TypeORM, cookies, JSON Web Tokens
+- Mocha.js and Chai.js
