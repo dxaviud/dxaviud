@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- Mocha.js and Chai.js
+- Mocha.js, Chai.js, ApolloClient
