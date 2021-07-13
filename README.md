@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- CORS
+- CORS, framework vs library
