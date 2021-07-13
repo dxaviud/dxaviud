@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- Access-Control-Allow-Origin http header
+- CORS
