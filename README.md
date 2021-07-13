@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- Mocha.js, Chai.js, ApolloClient
+- Access-Control-Allow-Origin http header
