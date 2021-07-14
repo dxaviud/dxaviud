@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- CORS, framework vs library
+- TypeScript, tsconfig.json paths mapping
