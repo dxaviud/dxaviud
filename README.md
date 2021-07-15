@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- TypeScript, tsconfig.json paths mapping, parcel doesn't like that, git revert
+- A bit of postgres
