@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- A bit of postgres
+- Throwing exception nuances
