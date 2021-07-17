@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- Throwing exception nuances, pg_hba.conf
+- Throwing exception nuances, pg_hba.conf, tsconfig.json compiler options
