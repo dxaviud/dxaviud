@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- ApolloClient stuff
+- Docker stuff
