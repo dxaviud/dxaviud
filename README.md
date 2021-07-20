@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- Docker stuff
+- IP routing, gold parser, Docker stuff
