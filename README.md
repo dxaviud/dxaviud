@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- More compiler stuff
+- C# null forgiving operator
