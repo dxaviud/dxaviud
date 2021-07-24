@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- C# null forgiving operator
+- JavaScript stuff
