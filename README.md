@@ -7,4 +7,4 @@
 
 ### What I learned today
 
-- JPostgreSQL stuff
+- PostgreSQL stuff
