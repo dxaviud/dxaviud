@@ -1,6 +1,7 @@
 # 👋Welcome 
 
 ## About me
-- 🏫 Software Engineering pre 2A work term<!-- and seeking a 4 month co-op job for the summer-->
+- 🏫 Software Engineering 2A study term
 - 🌱 Always learning
+- 🏸 Checkout my [website](https://dxaviud.github.io) for more about me
 - 📫 Contact me at my UW [email](mailto:d83xu@uwaterloo.ca) or personal [email](mailto:dxaviud@uwaterloo.ca)
