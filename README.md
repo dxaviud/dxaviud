@@ -1,9 +1,9 @@
 # 👋Welcome 
 
 ## About me
-- 🏫 Software Engineering @UWaterloo
+- 🏫 Software Engineering @UW
 - 🌱 Always learning
-- 🏸 Checkout my [website](https://dxaviud.github.io)
-- 📫 Contact me at my school [email](mailto:d83xu@uwaterloo.ca) or personal [email](mailto:dxaviud@uwaterloo.ca)
+- 🏸 My [website](https://dxaviud.github.io)
+- 📫 School [Email](mailto:d83xu@uwaterloo.ca), Personal [Email](mailto:dxaviud@uwaterloo.ca)
 
 🚀🚀🚀
