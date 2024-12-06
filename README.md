@@ -1,8 +1,7 @@
-# 👋yo
+# 👋greetings
 
 ## About me
 
-- 🌊 Flowing
 - 🚀 Software Engineering @UWaterloo
 - [website](https://dxaviud.github.io)
 
